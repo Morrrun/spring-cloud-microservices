@@ -1,2 +1,4 @@
 rootProject.name = 'spring-cloud-microservices'
 
+includeBuild 'eureka-server'
+
